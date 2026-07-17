@@ -8,4 +8,4 @@ A simple task tracker application built with Go.
 - Delete tasks
 - Mark tasks as complete
 
-https://github.com/gaurav4288/go_tutorial/tree/main/4_task_tracker
+https://roadmap.sh/projects/task-tracker
